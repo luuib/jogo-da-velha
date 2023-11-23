@@ -1,9 +1,13 @@
+body {
+	background:linear-gradient(black,purple, red)
+}
+
 h1 { 
 	color: orangered; 
-	margin-bottom: -5px; 
+	margin-bottom: 55px; 
 } 
 p { 
-	margin-bottom: -10px; 
+	margin-bottom: 200px; 
 } 
 .ui { 
 	display: flex; 
@@ -103,6 +107,7 @@ p {
 /* Main Container */
 #main { 
 	text-align: center; 
+
 } 
 
 /* Game Instruction Text */
